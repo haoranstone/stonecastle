@@ -6,7 +6,7 @@ email: allencool@qq.com
 description: "Every failure is leading towards success."
 keyword: "stonecastle , security, Cryptographci"
 url: "https://haoranstone.github.io/stonecastle/"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/stonecastle"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/haoranstone/stonecastle.git" # you code repository
 
 # Sidebar settings
