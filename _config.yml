@@ -4,7 +4,7 @@ SEOTitle: STONECASTLE | stonecastle  Blog
 header-img: img/post-bg-desk.jpg
 email: stonecastle999@gmail.com
 description: "Every failure is leading towards success."
-keyword: "stonecastle , security, Cryptographci"
+keyword: "stonecastle , security, cryptography"
 url: "https://haoranstone.github.io/stonecastle/"          # your host, for absolute URL
 baseurl: "/stonecastle"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/haoranstone/stonecastle.git" # you code repository
