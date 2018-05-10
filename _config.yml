@@ -12,7 +12,7 @@ github_repo: "https://github.com/haoranstone/stonecastle.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Figure out the truth"
-sidebar-avatar: /stonecastle/img/stonecastle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /stonecastle/img/stonecastle2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
